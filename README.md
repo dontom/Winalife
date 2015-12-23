@@ -1,2 +1,1 @@
-# Winalife
-My Company Webside
+# Winalife Landing Page## Creator**Winalife** [marcinczykt@gmail.com](marcinczykt@gmail.com)[winalife.pl](http://winalife.pl/)
